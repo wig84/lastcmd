@@ -1,0 +1,21 @@
+diff --git a/README.md b/README.md
+--- a/README.md
++++ b/README.md
+@@ -14,7 +14,6 @@
+ ls -la | lastcmd
+ pytest -q | lastcmd
+ git diff | lastcmd
+-pytest -q
+ ```
+
+ ## Requirements
+@@ -30,9 +29,3 @@
+ ```bash
+ sudo apt install xclip
+ ```
+-
+-## Commands
+-
+-```bash
+-# Add important project commands here.
+-```
